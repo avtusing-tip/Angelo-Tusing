@@ -10,4 +10,4 @@
 
 * <b>RAM: </b>4.00 GB(3.70 GB usable)
 
-* <b>Disj:</b>1tera bits
+* <b>Disk:</b>1tera bits
